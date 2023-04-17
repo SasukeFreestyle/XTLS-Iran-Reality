@@ -20,7 +20,7 @@
 This guide is written for Ubuntu 22.04 LTS but any Debian based distro should also work.
 
 ### What you need before starting this guide. Prerequisites
-- VPS or any other computer / Virtual-Machine running Ubuntu 22.04 LTS or a Debian based distro
+- VPS or any other computer / Virtual-Machine running Ubuntu 22.04 LTS or a Debian based distro.
 - SSH or terminal/console access to your server.
 - You need to know your username (the username when you log into Ubuntu)
 - Port 443 open in your router or/and firewall.
@@ -201,7 +201,9 @@ nano /home/USERNAME/xray/config.json
 - Enter your Private Key inside "PRIVATE KEY HERE" 
 - Enter your Short ID inside "shortIds":
 ***
-- Enter a destination ( "dest": ) and serverNames ("serverNames":[). This must be a website outside of Iran that is not blocked and works without a VPN.
+- Enter a destination ( "dest": ) and serverNames ("serverNames":).
+- This must be a website outside of Iran that you can access with a regular internet connection.
+- Destination website must have/support HTTPS/TLSv1.3 and H2.
 - This config is preconfigured with Samsung website but here is a list of other websites that I think works.
 ***
 - www.asus.com:443
