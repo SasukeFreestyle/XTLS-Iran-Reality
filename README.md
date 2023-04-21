@@ -210,9 +210,9 @@ nano /home/USERNAME/xray/config.json
 - Enter a destination ( "dest": ) and serverNames ("serverNames":).
 - This must be a website outside of Iran that you can access with a regular internet connection.
 - Destination website must have/support HTTPS/TLSv1.3 and H2.
-- This config is preconfigured with Samsung website but here is a list of other websites that I think works.
+- This config is preconfigured with www.google-analytics.com website but here is a list of other websites that I think works.
 ***
-- www.google-analytics.com:443
+- www.samsung.com:443
 - www.googletagmanager.com:443
 - www.asus.com:443
 - www.amd.com:443
@@ -242,10 +242,10 @@ The parts to edit are.
             "security":"reality",
             "realitySettings":{
                "show":false,
-               "dest":"www.samsung.com:443", // Edit to a website/server that works without VPN outside of Iran
+               "dest":"www.google-analytics.com:443", // Edit to a website/server that works without VPN outside of Iran
                "xver":0,
                "serverNames":[
-                  "www.samsung.com" // (SNI) Same as "dest" but without portnumber.
+                  "www.google-analytics.com" // (SNI) Same as "dest" but without portnumber.
                ],
                "privateKey":"PRIVATE KEY HERE", // Private key you generated earlier.
                "minClientVer":"1.8.0",
