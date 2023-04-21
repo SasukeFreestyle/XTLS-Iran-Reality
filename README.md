@@ -331,7 +331,7 @@ https://user-images.githubusercontent.com/2391403/222937653-fac82776-5580-4b7f-9
 ### V2rayN (Windows)
 [V2rayN 6.21+](https://github.com/2dust/v2rayN/releases)
 
-![v2rayN](https://user-images.githubusercontent.com/2391403/232086883-6456807b-59eb-43bb-950a-d4fa1f739c16.PNG)
+![v2rayN](https://user-images.githubusercontent.com/2391403/233697274-4dc688a3-be79-4015-ac0d-4d7646eaa96e.PNG)
 
 ***
 
@@ -342,7 +342,8 @@ Change core to sing-box in "Basic Settings".
 
 ![nekoraysing](https://user-images.githubusercontent.com/2391403/232086925-16ede576-bc5f-4200-b3f1-a0f6dc6ef319.PNG)
 
-![nekosettings](https://user-images.githubusercontent.com/2391403/232086985-9328d0e8-7c18-4a5b-90c2-1ca48342f701.PNG)
+![nekosettings](https://user-images.githubusercontent.com/2391403/233697238-e8f016f0-4971-45a3-8dfe-1e79f5d8ba84.PNG)
+
 
 ***
 
