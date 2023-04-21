@@ -299,12 +299,13 @@ Remember to set (uTLS) Fingerprint to Chrome.
 - Encryption: None
 - Network: TCP
 - TLS: Reality
-- SNI: www.samsung.com (serverNames)
+- SNI: www.google-analytics.com (serverNames)
 - uTLS/Fingerprint: randomized or Chrome (I prefer randomized).
 - PublicKey: rhrL9r_VGMWtwXXXXHO_eAi5e4CIn_XXXXXXXXXXXXX, The public (not private) key you generated earlier.
 - ShortId: d82fb387XXXXXXXX , The short ID you generated earlier.
 
-![photo_2023-04-14_16-33-50](https://user-images.githubusercontent.com/2391403/232086838-5d94c420-a55c-4049-8054-c7dfbfe1609d.jpg)
+![photo_2023-04-14_16-33-50](https://user-images.githubusercontent.com/2391403/233698254-7999d127-6adc-4170-847b-df796b692ff1.jpg)
+
 
 If you want to be able to visit Iranians websites without disconnecting the VPN follow the instructions in the video below.
 
