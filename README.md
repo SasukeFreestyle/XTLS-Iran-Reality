@@ -329,14 +329,14 @@ https://user-images.githubusercontent.com/2391403/222937653-fac82776-5580-4b7f-9
 ***
 
 ### V2rayN (Windows)
-[V2rayN 6.21+](https://github.com/2dust/v2rayN/releases/tag/6.21)
+[V2rayN 6.21+](https://github.com/2dust/v2rayN/releases)
 
 ![v2rayN](https://user-images.githubusercontent.com/2391403/232086883-6456807b-59eb-43bb-950a-d4fa1f739c16.PNG)
 
 ***
 
 ### Nekoray (Windows/Linux)
-[Nekoray 2.25+](https://github.com/MatsuriDayo/nekoray/releases/tag/2.25)
+[Nekoray 2.25+](https://github.com/MatsuriDayo/nekoray/releases)
 
 Change core to sing-box in "Basic Settings".
 
