@@ -3,9 +3,9 @@
 
 If you need farsi translation use check out this link https://telegra.ph/How-run-Reality-protocol-with-Xray-or-Sing-box-Core-with-iSegaro-04-18
 
-If you want X-UI use this https://github.com/FranzKafkaYu/x-ui
+If you want X-UI use this https://github.com/MHSanaei/3x-ui
 
-```bash <(curl -Ls https://raw.githubusercontent.com/FranzKafkaYu/x-ui/main/x-ui_en.sh```
+And make sure you block Iranian IP's and domains in custom configuration.
 
 - The main goal of this guide is to spread awereness on how to make one correctly.
 - The configuration file [(config.json)](https://github.com/SasukeFreestyle/XTLS-Iran-Reality/blob/main/config.json) is the main key here that includes a correct CIDR-IP block so the server does not initiate a connection back to Iran as this is not "normal" behaviour for a (web)server.
