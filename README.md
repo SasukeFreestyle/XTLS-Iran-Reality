@@ -1,6 +1,12 @@
 # XTLS-Iran-Reality
 ### Xray-core (V2ray) Server with Reality Protocol for bypassing internet censorship in Iran with TLS encryption.
 
+If you need farsi translation use check out this link https://telegra.ph/How-run-Reality-protocol-with-Xray-or-Sing-box-Core-with-iSegaro-04-18
+
+If you want X-UI use this https://github.com/FranzKafkaYu/x-ui
+
+```bash <(curl -Ls https://raw.githubusercontent.com/FranzKafkaYu/x-ui/main/x-ui_en.sh```
+
 - The main goal of this guide is to spread awereness on how to make one correctly.
 - The configuration file [(config.json)](https://github.com/SasukeFreestyle/XTLS-Iran-Reality/blob/main/config.json) is the main key here that includes a correct CIDR-IP block so the server does not initiate a connection back to Iran as this is not "normal" behaviour for a (web)server.
 
@@ -206,6 +212,8 @@ nano /home/USERNAME/xray/config.json
 - Destination website must have/support HTTPS/TLSv1.3 and H2.
 - This config is preconfigured with Samsung website but here is a list of other websites that I think works.
 ***
+- www.google-analytics.com:443
+- www.googletagmanager.com:443
 - www.asus.com:443
 - www.amd.com:443
 - www.cisco.com:443
