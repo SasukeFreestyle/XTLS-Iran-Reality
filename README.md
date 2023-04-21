@@ -1,7 +1,7 @@
 # XTLS-Iran-Reality
 ### Xray-core (V2ray) Server with Reality Protocol for bypassing internet censorship in Iran with TLS encryption.
 
-If you need farsi translation use check out this link https://telegra.ph/How-run-Reality-protocol-with-Xray-or-Sing-box-Core-with-iSegaro-04-18
+If you need farsi translation check out this link https://telegra.ph/How-run-Reality-protocol-with-Xray-or-Sing-box-Core-with-iSegaro-04-18
 
 If you want X-UI use this https://github.com/MHSanaei/3x-ui
 
