@@ -95,7 +95,7 @@ cd xray/
 
 Download the latest version of XTLS-Xray-Core.
 
-At the time of writing this its 1.8.0.
+At the time of writing this its 1.8.1.
 
 Link to release page.
 
@@ -105,7 +105,7 @@ To download the zip file, we can use the wget command.
 Then we will unzip the file.
 
 ```
-wget https://github.com/XTLS/Xray-core/releases/download/v1.8.0/Xray-linux-64.zip
+wget https://github.com/XTLS/Xray-core/releases/download/v1.8.1/Xray-linux-64.zip
 ```
 ```
 unzip Xray-linux-64.zip
@@ -364,9 +364,9 @@ Change directory to your xray folder.
 ```
 cd xray/
 ```
-wget the latest release, we will use this example link since latest version is still 1.8.0
+wget the latest release, we will use this example link since latest version is still 1.8.1
 ```
-wget https://github.com/XTLS/Xray-core/releases/download/v1.8.0/Xray-linux-64.zip
+wget https://github.com/XTLS/Xray-core/releases/download/v1.8.1/Xray-linux-64.zip
 ```
 
 This command will stop the xray service and remove old files and start xray service again.
