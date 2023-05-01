@@ -311,7 +311,9 @@ If you want to be able to visit Iranians websites without disconnecting the VPN 
 
 This will also make it harder for government to see that you are using a VPN.
 
-Go to Settings -> Custom Rules -> Direct URL or IP.
+- Connect to your server then go to Settings -> Geo asset files -> press download cloud to download new Geo asset files.
+
+- Go to Settings -> Custom Rules -> Direct URL or IP.
 
 Enter
 ```
@@ -320,11 +322,15 @@ geosite:private,
 geoip:ir,
 geosite:category-ir
 ```
-Then save.
+
+- Then save and reconnect to your server. Try browsing to youtube and tci.ir both will now work at the same time.
 
 Video Instructions:
 
-https://user-images.githubusercontent.com/2391403/222937653-fac82776-5580-4b7f-92cc-347e3cff5cf5.mp4
+
+https://user-images.githubusercontent.com/2391403/235455406-96746fe5-fa45-43de-9c2a-9e9cca51f10d.mp4
+
+
 
 
 ***
