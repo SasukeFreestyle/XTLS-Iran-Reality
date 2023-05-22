@@ -19,7 +19,7 @@ And make sure you block Iranian IP's and domains in custom configuration.
 - <ins>This will not work with CDNs such as Cloudflare.</ins>
 - This will only work with clients that use xray-core 1.8.0 or above. See [Clients](https://github.com/SasukeFreestyle/XTLS-Iran-Reality#clientapps-settings) for links to updated apps/programs.
 - [V2rayNG](https://github.com/2dust/v2rayNG/releases) version 1.8.2+ or above for Android. 
-- [Wings X](https://apps.apple.com/us/app/wings-x/id6446119727) For Iphone.
+- [FoXray](https://apps.apple.com/app/foxray/id6448898396) for Iphone.
 
 ****
 
@@ -87,10 +87,14 @@ sudo apt-get update
 ```
 sudo apt-get install unzip
 ```
- Change directory to the newly created xray folder.
+Change directory to the newly created xray folder.
 
 ```
 cd xray/
+```
+Download the latest geoasset file for blocking Iranian websites.
+```
+wget https://github.com/bootmortis/iran-hosted-domains/releases/latest/download/iran.dat
 ```
 
 Download the latest version of XTLS-Xray-Core.
@@ -101,7 +105,7 @@ Link to release page.
 
 https://github.com/XTLS/Xray-core/releases
 
-To download the zip file, we can use the wget command.
+To download the Xray-linux-64.zip file, we can use the wget command.
 Then we will unzip the file.
 
 ```
@@ -355,9 +359,15 @@ Change core to sing-box in "Basic Settings".
 ***
 
 ### Iphone/Mac
-[Wings X](https://apps.apple.com/us/app/wings-x/id6446119727)
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
 
 Pictures/Screenshots comming soon.
+
+***
+
+## Routing rules
+For routing rules for each client see bootmortis excellent guides. 
+https://github.com/bootmortis/iran-hosted-domains
 
 ***
 
@@ -389,4 +399,9 @@ rm Xray-linux-64.zip
 ```
 Done!
 
+## Credits
+XTLS-core Team / v2fly
 
+[@bootmortis](https://www.github.com/bootmortis) for Iranian domain list and routing rules.
+
+And many others.
