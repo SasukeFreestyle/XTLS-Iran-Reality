@@ -214,6 +214,7 @@ nano /home/USERNAME/xray/config.json
 - Destination website must have/support HTTPS/TLSv1.3 and H2.
 - This config is preconfigured with www.google-analytics.com website but here is a list of other websites that I think works.
 ***
+- www.speedtest.net:443
 - www.samsung.com:443
 - www.googletagmanager.com:443
 - www.asus.com:443
