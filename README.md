@@ -99,8 +99,6 @@ wget https://github.com/bootmortis/iran-hosted-domains/releases/latest/download/
 
 Download the latest version of XTLS-Xray-Core.
 
-At the time of writing this its 1.8.3.
-
 Link to release page.
 
 https://github.com/XTLS/Xray-core/releases
