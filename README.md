@@ -99,7 +99,7 @@ wget https://github.com/bootmortis/iran-hosted-domains/releases/latest/download/
 
 Download the latest version of XTLS-Xray-Core.
 
-At the time of writing this its 1.8.1.
+At the time of writing this its 1.8.3.
 
 Link to release page.
 
@@ -109,7 +109,7 @@ To download the Xray-linux-64.zip file, we can use the wget command.
 Then we will unzip the file.
 
 ```
-wget https://github.com/XTLS/Xray-core/releases/download/v1.8.1/Xray-linux-64.zip
+wget https://github.com/XTLS/Xray-core/releases/download/v1.8.3/Xray-linux-64.zip
 ```
 ```
 unzip Xray-linux-64.zip
@@ -382,9 +382,9 @@ Change directory to your xray folder.
 ```
 cd xray/
 ```
-wget the latest release, we will use this example link since latest version is still 1.8.1
+wget the latest release.
 ```
-wget https://github.com/XTLS/Xray-core/releases/download/v1.8.1/Xray-linux-64.zip
+wget https://github.com/XTLS/Xray-core/releases/download/v1.8.3/Xray-linux-64.zip
 ```
 
 This command will stop the xray service and remove old files and start xray service again.
