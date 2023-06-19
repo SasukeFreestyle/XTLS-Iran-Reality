@@ -15,7 +15,7 @@ And make sure you block Iranian IP's and domains in custom configuration.
 ### Notes
 - This is a noob-friendly guide but if you are an experienced linux user you should make a new user without sudo-access to run xray and give right permissions to files.
 - I wanted to make it easy for anyone non-technical to make a server without changing/creating users or editing permissions of files.
-- I will also teach on how to use your Iranian IP for direct communication to Iranian websites/services without disconnecting the "VPN".
+- I will also teach on how to use your Iranian IP for direct communication to Iranian websites/services without disconnecting the "VPN" using routing rules.
 - <ins>This will not work with CDNs such as Cloudflare.</ins>
 - This will only work with clients that use xray-core 1.8.0 or above. See [Clients](https://github.com/SasukeFreestyle/XTLS-Iran-Reality#clientapps-settings) for links to updated apps/programs.
 - [V2rayNG](https://github.com/2dust/v2rayNG/releases) version 1.8.2+ or above for Android. 
@@ -368,6 +368,8 @@ Pictures/Screenshots comming soon.
 ## Routing rules
 For routing rules for each client see bootmortis excellent guides. 
 https://github.com/bootmortis/iran-hosted-domains
+
+Link to some other routing rules for [V2rayNG](https://github.com/SasukeFreestyle/XTLS-Iran-Reality/issues/9) and [FoXray](https://github.com/SasukeFreestyle/XTLS-Iran-Reality/issues/10)
 
 ***
 
