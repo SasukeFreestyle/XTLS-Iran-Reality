@@ -1,16 +1,14 @@
 # XTLS-Iran-Reality
 ### Xray-core (V2ray) Server with Reality Protocol for bypassing internet censorship in Iran with TLS encryption.
 
-If you need farsi translation check out this link https://telegra.ph/How-run-Reality-protocol-with-Xray-or-Sing-box-Core-with-iSegaro-04-18
+- If you need farsi translation check out this link https://telegra.ph/How-run-Reality-protocol-with-Xray-or-Sing-box-Core-with-iSegaro-04-18
+- If you want (3)X-UI use this https://github.com/MHSanaei/3x-ui and make sure you block Iranian IP's and domains in [custom configuration](https://github.com/MHSanaei/3x-ui#xray-configurations).
+- Work in progress install script by [@MohsenHNSJ](https://github.com/MohsenHNSJ/FastReality).
 
-If you want X-UI use this https://github.com/MHSanaei/3x-ui
-
-And make sure you block Iranian IP's and domains in custom configuration.
+****
 
 - The main goal of this guide is to spread awereness on how to make one correctly.
 - The configuration file [(config.json)](https://github.com/SasukeFreestyle/XTLS-Iran-Reality/blob/main/config.json) is the main key here that includes a correct CIDR-IP block so the server does not initiate a connection back to Iran as this is not "normal" behaviour for a (web)server.
-
-****
 
 ### Notes
 - This is a noob-friendly guide but if you are an experienced linux user you should make a new user without sudo-access to run xray and give right permissions to files.
@@ -365,7 +363,7 @@ Pictures/Screenshots comming soon.
 ***
 
 ## Routing rules
-For routing rules for each client see bootmortis excellent guides. 
+For routing rules for each client see bootmortis excellent [guides](https://github.com/bootmortis/iran-hosted-domains/blob/main/README.fa.md). 
 https://github.com/bootmortis/iran-hosted-domains
 
 Link to some other routing rules for [V2rayNG](https://github.com/SasukeFreestyle/XTLS-Iran-Reality/issues/9) and [FoXray](https://github.com/SasukeFreestyle/XTLS-Iran-Reality/issues/10)
