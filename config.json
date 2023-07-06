@@ -36,7 +36,8 @@
             "enabled":true,
             "destOverride":[
                "http",
-               "tls"
+               "tls",
+               "quic"
             ]
          }
       }
