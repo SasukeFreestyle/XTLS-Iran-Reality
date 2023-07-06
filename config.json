@@ -1,15 +1,4 @@
 {
-   "log":{
-      "loglevel":"warning"
-   },
-   "policy":{
-      "levels":{
-         "0":{
-            "handshake":3,
-            "connIdle":180
-         }
-      }
-   },
    "inbounds":[
       {
          "listen":"0.0.0.0",
@@ -2021,5 +2010,16 @@
          "protocol":"blackhole",
          "tag":"block"
       }
-   ]
+   ],
+   "log":{
+      "loglevel":"warning"
+   },
+   "policy":{
+      "levels":{
+         "0":{
+            "handshake":3,
+            "connIdle":180
+         }
+      }
+   }
 }
