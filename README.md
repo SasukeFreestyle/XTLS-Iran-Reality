@@ -39,7 +39,7 @@ This guide is written for Ubuntu 22.04 LTS but any Debian based distro should al
 ```
 sudo nano /etc/sysctl.conf
 ```
-Copy this at end of then file and save and close.
+Copy this at end of the file and save and close.
 ```console
 net.ipv4.tcp_keepalive_time = 90
 net.ipv4.ip_local_port_range = 1024 65535
